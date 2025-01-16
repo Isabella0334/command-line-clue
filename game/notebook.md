@@ -6,7 +6,7 @@
 - [ ] The Gardener
 
 ## Weapons
-- [ ] Old Key
+- [X] Old Key
 - [ ] Steel Ruler
 - [ ] Heavy Book
 
