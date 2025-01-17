@@ -7,7 +7,7 @@
 
 ## Weapons
 - [X] Old Key
-- [ ] Steel Ruler
+- [X] Steel Ruler
 - [ ] Heavy Book
 
 ## Notes
