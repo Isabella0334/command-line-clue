@@ -11,6 +11,7 @@
 - [ ] Heavy Book
 
 ## Notes
-*Use this space to record your findings and deductions...*
+Clue 1: According to The Doctor, there were unusual sounds coming from the greenhouse last night.
+Clue 2: Check the market in the shops.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
